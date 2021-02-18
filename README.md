@@ -2,5 +2,5 @@
 
 Olá, bem vindo ao livro receitas :fried_egg:
 
-- Ovo
+- Ovo cozido
 
